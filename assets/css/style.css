@@ -1133,6 +1133,7 @@ body .modal-backdrop {
     background: transparent;
     border: 2px solid rgba(255, 255, 255, 0.2);
     margin-left: 10px;
+    margin-right: 10px;
     text-transform: uppercase;
     box-sizing: border-box;
     font-family: 'Bakbak One';
